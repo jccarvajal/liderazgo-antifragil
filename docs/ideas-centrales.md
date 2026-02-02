@@ -22,7 +22,7 @@ Si solo dispone de cinco minutos para entender la diferencia entre administrar p
 
 ---
 
-### Bloque I — Diagnóstico
+### Bloque I — Diagnóstico Estructural
 **La Ingeniería del Colapso Organizacional**
 
 Este bloque explica por qué las organizaciones fallan incluso cuando cumplen normas, compran tecnología y siguen “buenas prácticas”.
@@ -88,7 +88,7 @@ Si reportar un error tiene costo personal, la organización pierde señal y oper
 
 ---
 
-### Bloque IV — Gobernanza y Evolución
+### Bloque IV — Gobernanza y Legado
 **Supervivencia en Sistemas Complejos**
 
 Este bloque define los límites finales del poder y la capacidad de aprendizaje bajo estrés.

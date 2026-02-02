@@ -24,7 +24,7 @@ La jerarquía no falla por corrupción ni por incompetencia. **Falla porque fue 
 
 En una pirámide, la información fluye desde la base (donde ocurre la realidad), hacia la cúspide (donde se decide). A medida que la información asciende, debe ser comprimida, resumida y filtrada.
 
-* El ingeniero ve el dato crudo.
+* El profesional ve el dato crudo.
 * El jefe ve el reporte.
 * El gerente ve el resumen ejecutivo.
 * El directorio ve un semáforo.
