@@ -37,7 +37,7 @@ Este repositorio propone el paso de la "Resiliencia" (aguantar el golpe) a la **
 
 El contenido está organizado en cuatro bloques lógicos que van desde el diagnóstico forense hasta el legado institucional.
 
-## Introducción y Condiciones de Uso
+### Introducción
 Reglas de compromiso y calibración de expectativas.
 
 * [Nota al Lector](./nota-al-lector.md)
@@ -49,7 +49,7 @@ Reglas de compromiso y calibración de expectativas.
 
 ---
 
-## Bloque 1 — Diagnóstico Estructural
+### Bloque 1 — Diagnóstico Estructural
 *(Por qué las organizaciones fallan aunque tengan “buenos líderes”)*
 
 * [Capítulo 01: La Trampa de la Complejidad](./capitulos/01-Trampa-Complejidad.md)
@@ -61,7 +61,7 @@ Reglas de compromiso y calibración de expectativas.
 
 ---
 
-## Bloque 2 — Arquitectura de Responsabilidad
+### Bloque 2 — Arquitectura de Responsabilidad
 *(Desacoplar liderazgo de autoridad)*
 
 * [Capítulo 04: Juicio Distribuido](./capitulos/04-Juicio-Distribuido.md)
@@ -73,7 +73,7 @@ Reglas de compromiso y calibración de expectativas.
 
 ---
 
-## Bloque 3 — Infraestructura Cognitiva
+### Bloque 3 — Infraestructura Cognitiva
 *(Habilitar decisión sin héroes)*
 
 * [Capítulo 07: Alfabetización Cognitiva](./capitulos/07-Alfabetizacion-Cognitiva.md)
@@ -85,7 +85,7 @@ Reglas de compromiso y calibración de expectativas.
 
 ---
 
-## Bloque 4 — Gobernanza y Legado
+### Bloque 4 — Gobernanza y Legado
 *(Cuando el sistema ya no te necesita)*
 
 * [Capítulo 10: Soberanía del Juicio](./capitulos/10-Soberania-Juicio.md)
@@ -97,7 +97,7 @@ Reglas de compromiso y calibración de expectativas.
 
 ---
 
-## Conclusión y Cierre
+### Conclusión
 
 * [Epílogo: La Silla Vacía](./epilogo.md)
   *El único éxito medible: que el sistema funcione cuando el arquitecto se va.*

@@ -101,3 +101,8 @@ nav:
     - Bibliografía: referencias/Bibliografia.md
   - Acerca de:
     - Historial (Changelog): changelog.md
+  - Acerca de:
+    - Autor: acerca/autor.md
+    - Licencia: acerca/licence.md
+    - Cómo Contribuir: acerca/contribuir.md
+    - Historial (Changelog): changelog.md
