@@ -10,7 +10,8 @@
 
 ## Descripción del Proyecto
 
-**La crisis contemporánea de las organizaciones no es tecnológica. Es una crisis de diseño estructural.**
+La crisis contemporánea de las organizaciones no es tecnológica.
+**Es una crisis de diseño estructural.**
 
 Durante décadas se ha confundido autoridad formal (cargo) con liderazgo (función), produciendo arquitecturas que centralizan la decisión mientras diluyen la responsabilidad. El resultado son organizaciones que solo operan cuando intervienen personas excepcionales y colapsan cuando esas personas faltan.
 
