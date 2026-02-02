@@ -14,9 +14,11 @@ En un sistema HIC, la propiedad del riesgo debe estar pre-asignada con nombre y 
 Las estructuras matriciales y las "líneas punteadas" de reporte son, a menudo, escondites arquitectónicos. Cuando un gerente debe reportar funcionalmente a A y administrativamente a B, se crea un **Vacío de Mando** en la intersección.
 
 En ese vacío prospera la inacción. *"Yo asumí que lo autorizaba el otro jefe"*.
+
 Para efectos de GRC y control de riesgos, la matriz mal diseñada es un vector de confusión deliberada.
 
 > **Regla de Unicidad:**
+> 
 > Para cada activo crítico o proceso de Zona Roja, debe existir un solo "dueño" final. Puede recibir *input* de diez departamentos, pero solo uno pone la firma vinculante. **Si el diagrama organizacional requiere una flecha punteada para explicar quién manda, el riesgo no está gestionado.**
 
 ---
@@ -30,6 +32,7 @@ Cuando estalla la crisis a las 3:00 AM, el sistema no puede marcar al "Comité d
 La ambigüedad en la titularidad del riesgo es la causa raíz de la latencia. Si dos personas creen ser responsables a medias, ambas esperarán que la otra actúe primero. El resultado es parálisis.
 
 > **Nota de Protocolo:**
+> 
 > Este principio no busca un chivo expiatorio; busca una dirección IP válida para el enrutamiento de la crisis. El sistema necesita saber inequívocamente a dónde enviar la señal de alerta. Si la dirección es un grupo ("El Equipo"), el paquete de datos se pierde.
 
 ---
@@ -46,6 +49,7 @@ Si un barco encalla por error del oficial, este será sancionado por negligencia
 El Capitán no puede alegar *"yo no estaba en el puente"*. Su responsabilidad (*Accountability*) es sobre la integridad del activo, las 24 horas, esté presente o no.
 
 > **Dictamen GRC:**
+> 
 > Un líder que culpa a su equipo por un fracaso estratégico está confesando su redundancia. Si el mérito del éxito es del equipo, la carga del fracaso es del líder. Esa es la transacción de riesgo que justifica su autoridad.
 
 ---
@@ -72,6 +76,7 @@ La burocracia genera una asimetría peligrosa: personas con poder de decisión q
 Para que una decisión sea válida, el decisor debe tener **Skin in the Game** (Jugarse la Piel).
 
 > **Ley de Simetría:**
+> 
 > Nadie debe tener autoridad para exponer a la organización a un riesgo que no le afecte personalmente.
 > * Si hay *Bonus* por éxito, debe haber *Malus* (recuperación de bono variable) por destrucción de valor.
 > * **La impunidad del decisor es el mayor incentivo para la negligencia.**
@@ -87,6 +92,7 @@ Para verificar si la responsabilidad es real o decorativa, haga la prueba del "D
 3.  **Autoridad:** ¿Tiene Juan Pérez el presupuesto y el poder de veto para mitigar ese riesgo, o le dimos la responsabilidad sin la autoridad?
 
 **Veredicto:**
+
 Responsabilidad sin autoridad es **bloqueo operativo**.
 Autoridad sin responsabilidad es **riesgo moral**.
 
@@ -95,6 +101,7 @@ El sistema HIC exige el equilibrio exacto: Soberanía total sobre el riesgo, a c
 ---
 
 Hemos cerrado todas las puertas traseras.
+
 * No podemos culpar a la incompetencia (Cap 7).
 * No podemos culpar al silencio (Cap 8).
 * No podemos culpar al miedo (Cap 9).

@@ -6,6 +6,7 @@ Durante años, el concepto de "Seguridad Psicológica" ha sido capturado por Rec
 Aclaremos esto de entrada: **Seguridad Psicológica NO es Clima Laboral.** Una organización puede estar llena de gente amable, con beneficios corporativos y una atmósfera de "buena onda", y sin embargo estar **completamente ciega** ante el riesgo operativo. La Seguridad Psicológica no trata de "cómo se siente la gente"; trata de si la verdad circula o se estanca bajo presión. Es la **infraestructura de telemetría** del sistema.
 
 > **Principio de Exclusión:**
+> 
 > Si la "seguridad psicológica" se evalúa mediante encuestas de satisfacción, no es seguridad psicológica operativa. Es marketing interno. La seguridad real se mide por la velocidad con la que las malas noticias viajan desde la periferia hasta el centro sin sufrir distorsión.
 
 Si los sensores tienen miedo, se apagan. Y una organización ciega es una organización muerta que aún no sabe que ha chocado. **Gestionar mediante el miedo no es "liderazgo duro"; es incompetencia técnica.** Es apagar el tablero de control en medio de la tormenta.
@@ -27,14 +28,13 @@ Cuando la confianza se rompe, la organización no entra en caos; entra en **cini
 
 Existe una métrica oculta que define la salud real de un sistema de control de riesgos: el **MTTT (Tiempo Promedio hacia la Verdad)**. Es el tiempo que transcurre desde que un empleado detecta un fallo hasta que el líder se entera.
 
-
-
 * **En una cultura de miedo:** El empleado intenta ocultar el error, culpar a otro o repararlo en secreto. El MTTT es de días, semanas o nunca. Aquí prospera el "Yes-Man", cuyo trabajo es asegurar que el líder nunca escuche nada desagradable.
 * **En una cultura segura:** El reporte es instantáneo. *"Rompí la base de datos"*. El MTTT es de segundos.
 
 Esa latencia es la diferencia entre un incidente controlado y una catástrofe sistémica. Un MTTT bajo no elimina el error, pero reduce drásticamente su radio de destrucción.
 
 > **Doctrina de Evaluación Ejecutiva:**
+> 
 > El MTTT no mide al empleado; **mide al Líder.** Desde una perspectiva de Directorio, un MTTT alto (lentitud en enterarse) constituye una **falla de control interno**. Un líder con esta métrica en rojo está operando a ciegas y no debería tener mando sobre activos críticos. Un MTTT alto invalida la delegación.
 
 ---
@@ -47,8 +47,6 @@ Si la dirección cree que todo marcha bien porque nadie trae malas noticias, no 
 El silencio no es ausencia de problemas; es ausencia de confianza. En sistemas punitivos, el personal aprende racionalmente a ocultar el 90% de la realidad operativa para sobrevivir.
 
 **Dictamen:** Un tablero de control lleno de luces verdes en una organización compleja es, casi invariablemente, una **alucinación administrativa** producto del miedo.
-
-
 
 ---
 
@@ -64,6 +62,7 @@ Para reducir el MTTT, se adopta el ritual de la ingeniería de confiabilidad (SR
 4.  **Salida Ejecutable (Action Items):** El ritual no termina con un abrazo, termina con un **ticket en el sistema** (Gestión de Cambios). Si no hay un cambio de código, proceso o política documentado, el Post-Mortem fue teatro.
 
 > **Regla de Invalidez Total:**
+> 
 > Si un líder utiliza la información obtenida en un Post-Mortem para castigar al empleado semanas después (represalia diferida), comete un acto de **traición sistémica**. Una sola violación a esta inmunidad destruye los sensores para siempre. La memoria institucional del castigo es eterna.
 
 ---

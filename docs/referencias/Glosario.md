@@ -75,7 +75,7 @@ Quien no use estos términos con estas definiciones, no está aplicando el model
 
 **Gobernanza (Governance)**
 
-* **Definición:** Sistema de reglas, límites y mecanismos de verificación que responde a la pregunta: **"¿Quién decide, bajo qué condiciones, y quién absorbe el costo del error?"**. Es diseño estructural, no supervisión moral.
+* **Definición:** Sistema de reglas, límites y mecanismos de verificación que responde a la pregunta: *"¿Quién decide, bajo qué condiciones, y quién absorbe el costo del error?"*. Es diseño estructural, no supervisión moral.
 * **Referencia Principal:** Bloque 4 / Anexo A.
 
 **Human-in-Command (HIC)**
@@ -120,7 +120,7 @@ Quien no use estos términos con estas definiciones, no está aplicando el model
 
 **Métrica**
 
-* **Definición:** Cuantificación objetiva de un fenómeno operativo. En un sistema antifrágil, **se debe medir todo** para tener observabilidad total, pero no se debe incentivar todo. La métrica es diagnóstico neutro; sirve para entender, no para juzgar.
+* **Definición:** Cuantificación objetiva de un fenómeno operativo. En un sistema antifrágil, *se debe medir todo* para tener observabilidad total, pero no se debe incentivar todo. La métrica es diagnóstico neutro; sirve para entender, no para juzgar.
 * **Referencia Principal:** Anexo E.
 
 **Normalización del Desvío**
@@ -150,7 +150,7 @@ Quien no use estos términos con estas definiciones, no está aplicando el model
 
 **Seguridad Psicológica**
 
-* **Definición:** Infraestructura crítica que permite reportar errores y riesgos sin miedo a represalias. **No es bienestar emocional ni ausencia de conflicto; es una condición técnica para que la información crítica fluya sin distorsión.**
+* **Definición:** Infraestructura crítica que permite reportar errores y riesgos sin miedo a represalias. *No es bienestar emocional ni ausencia de conflicto; es una condición técnica para que la información crítica fluya sin distorsión.*
 * **Referencia Principal:** Capítulo 09.
 
 **Skin in the Game (Jugarse la Piel)**
@@ -179,5 +179,5 @@ Quien no use estos términos con estas definiciones, no está aplicando el model
 
 **Zona Roja vs. Zona Verde**
 
-* **Definición:** Clasificación de decisiones según el modelo HIC. **Zona Verde:** Ejecución delegable o automatizable. **Zona Roja:** Decisiones críticas no delegables que requieren Soberanía Humana.
+* **Definición:** Clasificación de decisiones según el modelo HIC. *Zona Verde:* Ejecución delegable o automatizable. **Zona Roja:** Decisiones críticas no delegables que requieren Soberanía Humana.
 * **Referencia Principal:** Anexo B.

@@ -41,19 +41,19 @@ El modelo presentado en estas páginas no promete estabilidad.
 Promete capacidad de adaptación sin suposiciones.
 
 Cuando el sistema funciona:
+
 * No asume buena intención.
 * No depende de memoria individual.
 * No espera decisiones correctas bajo presión extrema.
 
 Funciona porque las consecuencias están diseñadas, no improvisadas.
 
-El estado final no es armonía.
-Es claridad operativa.
+El estado final no es armonía. Es *claridad operativa*:
 
-Claridad sobre quién decide.
-Claridad sobre quién responde.
-Claridad sobre qué no se delega.
-Claridad sobre dónde falló el diseño cuando algo sale mal.
+* Claridad sobre quién decide.
+* Claridad sobre quién responde.
+* Claridad sobre qué no se delega.
+* Claridad sobre dónde falló el diseño cuando algo sale mal.
 
 Cuando esa claridad existe, el sistema no necesita relatos.
 Necesita mantenimiento.
@@ -64,6 +64,6 @@ Una organización bien diseñada no inspira.
 No motiva.
 No promete.
 
-Opera. Aprende. Persiste.
+*Opera. Aprende. Persiste.*
 
 **Todo lo demás es literatura.**

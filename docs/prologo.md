@@ -14,7 +14,7 @@ Observan organizaciones que “funcionaron”, extraen patrones visibles y los p
 
 Este libro parte desde otro lugar: **los restos**.
 
-Cuando una organización colapsa —operativa, ética o estratégicamente— el análisis forense rara vez identifica una causa espectacular. No fue falta de tecnología. No fue falta de talento. No fue falta de normas.
+Cuando una organización colapsa, operativa, ética o estratégicamente, el análisis forense rara vez identifica una causa espectacular. No fue falta de tecnología. No fue falta de talento. No fue falta de normas.
 La causa más frecuente es estructural: el sistema decidió mal cuando más importaba.
 
 Durante las últimas décadas, las organizaciones han invertido de forma obsesiva en herramientas, procesos y automatización. Han acelerado la ejecución, multiplicado los indicadores y sofisticado el control técnico.
@@ -36,7 +36,7 @@ Se le llama **riesgo sistémico mal gestionado**.
 Aquí no se trata el liderazgo como un rasgo personal, una virtud moral ni una función jerárquica.
 El liderazgo se analiza como lo que es desde una perspectiva de ingeniería:
 
-**Una función de diseño que emerge —o falla— según la arquitectura del sistema.**
+**Una función de diseño que emerge, o falla, según la arquitectura del sistema.**
 
 Puede existir liderazgo sin cargo.
 Puede existir cargo sin liderazgo.
@@ -54,6 +54,7 @@ Este libro trata sobre **Ingeniería Organizacional** aplicada al poder, al juic
 Lo que sigue no es una crítica a las personas, sino a las estructuras que producen comportamientos previsibles.
 
 Cuando:
+
 * La información se compartimentaliza,
 * El error se oculta por miedo,
 * La decisión se posterga por burocracia,
@@ -74,6 +75,7 @@ Exige abandonar la narrativa tranquilizadora del “liderazgo fuerte” y reempl
 **¿Dónde vive realmente el juicio en esta organización, y quién paga el costo cuando falla?**
 
 Responder esa pregunta obliga a renunciar a:
+
 * La ilusión de control total,
 * La comodidad del comité,
 * Y la ficción de que la cultura se declara en vez de diseñarse.

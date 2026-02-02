@@ -2,14 +2,17 @@
 ### El mito del "Liderazgo Fuerte" como vulnerabilidad crítica.
 
 En Ingeniería de Confiabilidad, existe un concepto al que los arquitectos de sistemas temen más que a cualquier ataque externo: el **Punto Único de Fallo** (*Single Point of Failure* - SPOF).
+
 Un SPOF es un componente único (un servidor, un cable, una llave) que, si falla, detiene la operación completa porque carece de respaldo.
+
 En ingeniería, diseñar un sistema con un SPOF se considera negligencia profesional. Se busca, se aísla y se elimina.
 
 En el diseño organizacional tradicional, se hace lo contrario: se glorifica el SPOF.
 Se le llama "Liderazgo Fuerte".
 
 Se diseñan estructuras donde una sola persona concentra la autoridad de firma, el acceso a la información y la validación final.
-Al hacerlo, se convierte al líder —incluso al más competente— en la principal amenaza para la continuidad del negocio.
+
+Al hacerlo, se convierte al líder, incluso al más competente, en la principal amenaza para la continuidad del negocio.
 Si la organización depende de la "genialidad" o de la "aprobación" de un solo nodo para operar, no es sólida; es frágil por diseño y **estructuralmente inestable**.
 
 ---
@@ -45,6 +48,7 @@ El miedo no es una "herramienta de gestión dura"; es un bloqueador de informaci
 El miedo introduce **Ruido** en el canal de comunicación.
 
 Cuando se gestiona mediante la intimidación o la intolerancia al error, se destruyen los sensores de la organización (*Telemetría*).
+
 * La gente deja de reportar la verdad operativa.
 * Los reportes de gestión se maquillan en "verde" (falso positivo).
 * Los riesgos críticos se esconden bajo la alfombra.
@@ -69,10 +73,11 @@ Esto no es solo indisciplina; es un **Control Compensatorio Informal**. La red i
 
 Este es el daño más grave y menos visible. El líder centralizado practica una política de **Tierra Quemada** con el talento.
 
-El talento real —personas con criterio y opciones de mercado— no tolera trabajar para un cuello de botella. Se van a la competencia.
+El talento real, personas con criterio y opciones de mercado, no tolera trabajar para un cuello de botella. Se van a la competencia.
 ¿Quiénes se quedan? Se produce una **Selección Adversa**: el sistema expulsa el capital cognitivo y retiene a los validadores.
 
 Aquí nace la figura del **"Yes-Man" (El Adulador Táctico)**.
+
 Este perfil no opera por lealtad, sino por una estrategia racional de supervivencia. Ha calculado que en este sistema el costo de disentir es infinito y el costo de aplaudir es cero.
 El "Yes-Man" no es un traidor moral; es el producto inevitable de un diseño que castiga la verdad.
 Pero el resultado es fatal: **Un equipo lleno de validadores no es un equipo alineado; es una cámara de eco que amplifica el error del líder hasta la catástrofe.**
@@ -88,6 +93,7 @@ Si las decisiones críticas se acumulan en una sola bandeja de entrada.
 Si el equipo trae problemas en lugar de soluciones porque tienen miedo a equivocarse.
 
 Entonces la conclusión técnica es una:
+
 **Si la ausencia del líder detiene la operación, ese líder no es un activo estratégico: es un Punto Único de Fallo.**
 
 Esto no es una crítica a su capacidad personal; es una acusación a su topología.

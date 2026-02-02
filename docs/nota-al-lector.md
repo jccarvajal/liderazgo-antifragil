@@ -22,14 +22,17 @@ Para corregir una falla estructural no se analizan motivaciones; se analizan inc
 ### Condiciones de lectura
 
 **1. Suspensión del ego**
+
 Si el texto describe una práctica habitual como “fragilidad” o “negligencia técnica”, no lo interprete como un ataque personal.
 En ingeniería, una estructura no “se ofende” cuando colapsa; simplemente revela un defecto de diseño.
 
 **2. Ausencia de consuelo**
+
 No encontrará aquí validación emocional ni justificación de esfuerzo.
 La entropía no premia la buena intención. El mercado tampoco.
 
 **3. Enfoque estructural**
+
 Si atribuye los problemas de su organización a que “la gente es difícil”, este libro no le será útil.
 La premisa aquí es explícita: **no existen malos individuos de forma sistémica; existen arquitecturas que inducen comportamientos defectuosos.**
 
@@ -40,7 +43,7 @@ Si busca comprender por qué organizaciones bien intencionadas colapsan, y cómo
 
 ---
 
-### Aviso de Implementación**
+### Aviso de Implementación
 
 Este libro presenta el marco **Modelo HIC** (diseño de control distribuido con límites duros, trazabilidad y cumplimiento por defecto).
 

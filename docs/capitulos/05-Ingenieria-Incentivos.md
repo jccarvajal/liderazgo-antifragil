@@ -11,6 +11,7 @@
 Diseñar una organización distribuida (Capítulo 4) sin corregir los incentivos es un suicidio arquitectónico. Si usted le da autonomía a un agente cuyos intereses personales chocan con los de la organización, no está creando agilidad; está financiando el sabotaje.
 
 Los incentivos son el **Código Fuente** del comportamiento humano.
+
 En gestión de riesgos, la mayoría de los desastres no ocurren por "maldad"; ocurren por **incentivos perversos**. Personas racionales siguiendo la lógica del sistema hasta el precipicio.
 
 ---
@@ -35,6 +36,7 @@ Un sistema de incentivos lineal en un entorno complejo siempre genera efectos se
 ## 5.2. El Problema de Agencia y la Asimetría
 
 El defecto crítico en la estructura corporativa es la **Asimetría de Riesgo**.
+
 Ocurre cuando el agente (empleado/directivo) tiene toda la ganancia potencial (*Upside*) si las cosas salen bien, pero transfiere toda la pérdida potencial (*Downside*) a la organización si salen mal.
 
 Esto genera el **Comportamiento de Apuesta Gratuita**:
@@ -58,6 +60,7 @@ Si usted toma decisiones de riesgo, debe participar en las consecuencias de ese 
 No se trata de crueldad; se trata de física. Un puente diseñado por un ingeniero que debe vivir debajo de él es un puente que no se cae.
 
 > **⚠️ Cláusula Operativa y Legal (Límite del Incentivo):**
+> 
 > Los mecanismos de castigo (*Malus/Clawback*) se aplican **exclusivamente sobre la remuneración variable** (bonos, comisiones, *stock options*). El sueldo base es un derecho laboral inalienable y no debe ser tocado. Usted no puede "multar" el salario de un empleado; solo puede retener o cancelar el bono que aún no se ha consolidado.
 
 **Mecanismos de Corrección:**
@@ -79,6 +82,7 @@ En sistemas complejos, el resultado rara vez es atribuible a una sola persona. S
 **El incentivo debe moverse del individuo al equipo y del volumen (*output*) al impacto real en la salud del sistema (*outcome*).**
 
 Pero existe un daño colateral aún más grave: la **Corrupción de la Información**.
+
 Un incentivo mal diseñado no solo genera malas decisiones; ensucia la señal. Si el sistema castiga la verdad o premia el maquillaje de cifras, usted pierde la visibilidad real. Y cuando la señal de entrada está corrompida por el bono, ningún sistema de control posterior puede salvar la operación.
 
 ---

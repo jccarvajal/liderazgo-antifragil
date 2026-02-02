@@ -7,7 +7,9 @@ Algoritmos, inteligencias artificiales, matrices de riesgo automatizadas y flujo
 Cuando un líder dice *"El sistema rechazó la solicitud"* o *"El algoritmo no me permite hacerlo"*, está confesando algo grave: ha perdido la **Soberanía del Juicio**.
 
 > **La Distinción Fundamental:**
+> 
 > La automatización sin soberanía degrada al líder a la categoría de **operador de datos** (sigue instrucciones de la pantalla).
+> 
 > La automatización con soberanía eleva al líder a la categoría de **arquitecto de sistemas** (diseña y controla la lógica de la pantalla).
 
 La tecnología no tiene ética, no tiene contexto y no tiene "piel en el juego" (*skin in the game*). Una máquina no puede ser responsable porque no puede ser castigada. Por lo tanto, delegar el juicio final a una máquina no es modernización; es **abdicación estructural**.
@@ -21,6 +23,7 @@ Desde una perspectiva estricta de ingeniería, un algoritmo de optimización es 
 Si le pides a un sistema "reducir el fraude a cero", el sistema bloqueará el 100% de las transacciones. Ha cumplido la misión con éxito técnico (cero fraude) y fracaso operativo (cero negocio).
 
 > **Principio de Ceguera:**
+> 
 > La máquina procesa datos, no realidad. El líder existe para inyectar el contexto que la máquina no puede ver. Si el líder se limita a firmar lo que dice la pantalla, es redundante. Un sistema ciego dirigido por un humano ciego es un accidente esperando ocurrir a gran escala.
 
 ---
@@ -30,6 +33,7 @@ Si le pides a un sistema "reducir el fraude a cero", el sistema bloqueará el 10
 No todas las decisiones son automatizables. La organización debe trazar un límite duro alrededor de la **Zona Roja**: decisiones que, por su impacto ético, estratégico o humano, requieren obligatoriamente una **Firma Biológica**.
 
 **Decisiones Indelegables al Software:**
+
 1.  **Excepciones Normativas:** Romper una regla para salvar el propósito de la regla (ver Capítulo 6).
 2.  **Dilemas Éticos:** Elegir entre dos opciones malas donde el cálculo utilitario no basta.
 3.  **Juicios de Personas:** Contratación, despido o evaluación de carácter de un ser humano.
@@ -44,7 +48,9 @@ La prueba definitiva de la soberanía no es si puedes encender el sistema, sino 
 Muchos líderes modernos operan sistemas que no entienden y que no pueden detener. Son rehenes de su propia infraestructura.
 
 > **Protocolo de Seguridad (Kill Switch):**
+> 
 > Todo proceso automatizado de alto riesgo debe tener un **Interruptor de Pánico** físico o lógico. Pero no es para que cualquiera lo pulse. Debe estar regulado:
+> 
 > 1.  **Quién:** Solo oficiales de guardia o niveles HIC 4.
 > 2.  **Cuándo:** Ante evidencia de daño sistémico o alucinación del modelo.
 > 3.  **Cómo (Degradación):** Un procedimiento claro para operar en "Modo Manual" (lápiz y papel) mientras el sistema está apagado.
@@ -70,11 +76,14 @@ Legal y operativamente, debemos destruir la excusa del "error informático".
 Cuando un sistema automatizado causa daño, la culpa no se disuelve en el código. La culpa viaja hacia atrás en el tiempo hasta encontrar al último humano que autorizó la implementación.
 
 **La Ley de Conservación de la Responsabilidad:**
+
 Si sacas al humano de la fase de ejecución, la responsabilidad se transfiere al 100% al humano de la fase de diseño o compra.
+
 * Si el algoritmo discrimina, el responsable es quien compró el algoritmo.
 * Si el coche autónomo atropella, el responsable es quien lanzó la versión beta.
 
 > **Dictamen Forense:**
+> 
 > Decir "fue un error del sistema" es una admisión de culpa por negligencia en la supervisión (*in vigilando*) o en la elección (*in eligendo*). El líder es responsable de sus herramientas. Automatizar la ejecución no automatiza la responsabilidad.
 
 ---
