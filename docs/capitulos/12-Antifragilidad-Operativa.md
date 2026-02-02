@@ -125,5 +125,3 @@ No responder estas preguntas con evidencia documental es un acto de **autoengañ
 La antifragilidad no es optimismo; es disciplina brutal aplicada en el tiempo.
 
 El sistema está diseñado. La supervivencia ahora depende de la ejecución.
-
-**FIN DEL LIBRO.**
