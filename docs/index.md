@@ -34,7 +34,7 @@ La premisa fundamental de esta obra es simple y no negociable:
 
 > **Intentar controlar la complejidad mediante más burocracia es un suicidio técnico. La rigidez no protege: fragiliza.**
 
-Este libro propone el paso desde la **Resiliencia** —aguantar el golpe y volver al estado anterior— hacia la **Antifragilidad**: diseñar organizaciones que utilicen el error, el estrés y la volatilidad como combustible para mejorar su arquitectura.
+Este libro propone el paso desde la **Resiliencia**, aguantar el golpe y volver al estado anterior, hacia la **Antifragilidad**: diseñar organizaciones que utilicen el error, el estrés y la volatilidad como combustible para mejorar su arquitectura.
 
 La tesis se sostiene sobre dos afirmaciones estructurales:
 
