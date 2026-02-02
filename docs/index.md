@@ -12,24 +12,33 @@
 
 **La crisis contemporánea de las organizaciones no es tecnológica. Es una crisis de diseño estructural.**
 
-Durante décadas, se ha confundido autoridad formal (cargo) con liderazgo (función), produciendo arquitecturas que centralizan la decisión mientras diluyen la responsabilidad. Este repositorio documenta un **Marco de Arquitectura Organizacional** diseñado para operar sin depender de héroes.
+Durante décadas se ha confundido autoridad formal (cargo) con liderazgo (función), produciendo arquitecturas que centralizan la decisión mientras diluyen la responsabilidad. El resultado son organizaciones que solo operan cuando intervienen personas excepcionales y colapsan cuando esas personas faltan.
 
-El objetivo es proporcionar herramientas de **Ingeniería Forense** para:
+Este repositorio documenta un **Marco de Arquitectura Organizacional** diseñado para operar sin depender de héroes.
 
-1.  **Diagnosticar:** Diferenciar entre fallas humanas y defectos de diseño.
-2.  **Diseñar:** Implementar estructuras de Juicio Distribuido y Responsabilidad Indivisible.
-3.  **Operar:** Construir sistemas que usen el error como telemetría para evolucionar (Antifragilidad).
+El objetivo es entregar herramientas de **Ingeniería Forense Organizacional** para:
+
+1.  **Diagnosticar**
+    Distinguir fallas humanas individuales de defectos estructurales de diseño.
+2.  **Diseñar**
+    Implementar estructuras de *Juicio Distribuido* y *Responsabilidad Indivisible* que reduzcan latencia, ambigüedad y abdicación.
+3.  **Operar**
+    Construir sistemas que utilicen el error como telemetría para aprender, adaptarse y evolucionar (**Antifragilidad**).
 
 ---
 
-## Tesis Central: De la Robustez a la Antifragilidad
+### Tesis Central: De la Robustez a la Antifragilidad
 
-La premisa fundamental de este libro es que intentar controlar la complejidad mediante más burocracia es un suicidio. La rigidez es fragilidad.
+La premisa fundamental de esta obra es simple y no negociable:
 
-Este repositorio propone el paso de la "Resiliencia" (aguantar el golpe) a la **Antifragilidad**: diseñar organizaciones que usen el error, el estrés y la volatilidad como combustible para mejorar.
+> **Intentar controlar la complejidad mediante más burocracia es un suicidio técnico. La rigidez no protege: fragiliza.**
 
-* **El Diagnóstico:** Las organizaciones no colapsan porque la gente falle, sino porque el diseño requiere intervenciones humanas excepcionales para sostener la operación cotidiana.
-* **La Solución:** Eliminar la dependencia estructural de individuos extraordinarios. El liderazgo debe dejar de ser una identidad personal para convertirse en una **propiedad emergente del sistema**
+Este libro propone el paso desde la **Resiliencia** —aguantar el golpe y volver al estado anterior— hacia la **Antifragilidad**: diseñar organizaciones que utilicen el error, el estrés y la volatilidad como combustible para mejorar su arquitectura.
+
+La tesis se sostiene sobre dos afirmaciones estructurales:
+
+* **El Diagnóstico:** Las organizaciones no colapsan porque las personas fallen, sino porque el diseño exige intervenciones humanas excepcionales para sostener la operación cotidiana.
+* **La Solución:** Eliminar la dependencia estructural de individuos extraordinarios. **El liderazgo debe dejar de ser una identidad personal y convertirse en una propiedad emergente del sistema.**
 
 ---
 
