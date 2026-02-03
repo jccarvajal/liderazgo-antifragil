@@ -100,6 +100,7 @@ La regla es simple: **Quien decide el gasto no puede ser el mismo que ejecuta el
 En un sistema HIC, desatamos las manos para decidir, pero encadenamos los procesos para controlar.
 
 **El Protocolo de Seguridad:**
+
 1.  **Decisión:** El Nivel 3 autoriza la acción táctica (ej. "Comprar servidor").
 2.  **Ejecución:** El sistema o un par valida que la decisión entra en el presupuesto y ejecuta (ej. "Transferir fondos").
 3.  **Registro:** El sistema genera una huella inmutable de *quién* decidió, *cuándo* y *bajo qué* justificación.
