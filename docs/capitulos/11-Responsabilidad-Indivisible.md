@@ -111,4 +111,4 @@ Hemos cerrado todas las puertas traseras.
 Ahora la organización está desnuda frente al caos. Ya no se trata de evitar el golpe, sino de qué hacemos cuando el golpe es inevitable.
 
 Llegamos al estado final.
-Bienvenidos al **Capítulo 12: Construyendo Antifragilidad.**
+Bienvenidos al **Capítulo 12: Antifragilidad Operativa.**
