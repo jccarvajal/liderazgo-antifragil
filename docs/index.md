@@ -151,6 +151,7 @@ Reglas de compromiso y calibración de expectativas.
 ## Changelog
 * **v1.1 (Febrero 2026):** Inclusión del Toolkit de Auditoría Forense (Anexo G) y alertas de diseño antifrágil.
 * **v1.0 (Febrero 2026):** Lanzamiento oficial del libro. Consolidación del modelo de Ingeniería Organizacional, definición de la infraestructura cognitiva y establecimiento de la Responsabilidad Indivisible.
+* Ver [Historial Completo](./changelog.md).
 
 ## Sugerencias y Mejoras
 Este es un documento vivo. Si encuentras una errata o tienes una sugerencia de mejora, puedes reportarla directamente en el [Repositorio de GitHub](https://github.com/jccarvajal/Liderazgo-Antifragil).
