@@ -6,6 +6,18 @@ Este documento registra todas las modificaciones estructurales, técnicas y conc
 
 ---
 
+## [1.1.0] - 2026-02-05
+
+### 🚀 Nuevas Capacidades Operativas
+- **Nuevo Anexo G:** "Checklist de Auditoría de Liderazgo Antifrágil". Se añade una herramienta de ingeniería forense con 25 puntos de control binarios para auditar la integridad estructural de la organización (SPOF, Incentivos, Skin in the Game).
+- **Integración de Alertas Antifrágiles:** Definición de "alertas rojas" de diseño (ej: "Autoridad sin costo = Riesgo Sistémico") dentro del checklist operativo.
+
+### 📝 Refinamiento Doctrinal
+- **Actualización de Tesis Central (Index):** Reescritura completa de la "Descripción del Proyecto" para eliminar retórica motivacional y centrar la propuesta en la "Ingeniería Forense Organizacional".
+- **Nota de Lenguaje Sistémico:** Inserción de la advertencia ontológica en la Nota al Lector, aclarando que el "sistema" es un artefacto construido por decisiones humanas, no una abstracción exculpatoria.
+
+---
+
 ## [1.0.0] - 2026-02-01
 
 ### Fundación Doctrinal y Estructura Maestra
