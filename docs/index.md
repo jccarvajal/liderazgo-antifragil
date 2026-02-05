@@ -135,7 +135,7 @@ Reglas de compromiso y calibración de expectativas.
   *Diagnóstico Diferencial: Cómo distinguir el modelo real de su caricatura.*
 
 ### Auditoría Forense
-* [Anexo G: Checklist de Auditoría de Liderazgo Antifrágil](./anexos/checklist_antifragil.md)
+* [Anexo G: Checklist de Auditoría de Liderazgo Antifrágil](./anexos/G-Checklist-Auditoria.md)
   *Herramienta de diagnóstico estructural: integridad, SPOF y riesgo sistémico.*
 
 ---
