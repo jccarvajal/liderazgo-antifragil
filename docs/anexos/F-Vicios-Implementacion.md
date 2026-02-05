@@ -64,7 +64,7 @@ La organización declara valores de "Disidencia" y "Seguridad Psicológica" en l
 
 ---
 
-### NOTA FINAL DE DIAGNÓSTICO
+## NOTA FINAL DE DIAGNÓSTICO
 
 Si usted reconoce su organización en varios de estos patrones, **no descarte el modelo; descarte su implementación.**
 

@@ -46,5 +46,6 @@ El paso lógico desde el liderazgo hacia la gobernanza implica dejar de buscar "
 La función final de la gobernanza no es vigilar a las personas, sino cuidar al sistema. Debemos dejar de ver la auditoría como una función policial y empezar a verla como **Ingeniería de Confiabilidad**.
 
 Su trabajo no es castigar el desvío, sino medir la salud de la infraestructura cognitiva que hemos construido.
+
 * Si este libro diseñó el "sistema nervioso" (toma de decisiones)...
 * El control diseña el "sistema inmunológico" (sensores y alarmas) que avisa cuando la organización se está enfermando.

@@ -1,5 +1,5 @@
 # ANEXO A: RÚBRICA DE MADUREZ DE LIDERAZGO Y GOBERNANZA GRC
-### Herramienta de Auto-Diagnóstico Organizacional
+## Herramienta de Auto-Diagnóstico Organizacional
 
 **Instrucciones de Uso:**
 Esta matriz no es un test de personalidad; es una auditoría de sistemas. Evalúe su unidad, gerencia o servicio en las 5 dimensiones críticas. Sea brutalmente honesto. La evaluación debe realizarse sobre **patrones observables del sistema** (procesos, incentivos, decisiones), no sobre intenciones ni rasgos personales de individuos específicos.
@@ -30,7 +30,7 @@ La mayoría de las organizaciones públicas y corporativas tradicionales se encu
 
 ---
 
-### INTERPRETACIÓN DE RESULTADOS
+## INTERPRETACIÓN DE RESULTADOS
 
 * **Mayoría en Nivel 1-2:** **ZONA DE PELIGRO.** Su organización es frágil. Sobrevive por inercia o monopolio (sector público). Un shock externo (ciberataque, escándalo, crisis) podría ser fatal. Requiere intervención quirúrgica urgente en el liderazgo.
 * **Mayoría en Nivel 3:** **ZONA DE SUPERVIVENCIA.** Es la realidad de la mayoría de las empresas operativas. Funcionan a base de esfuerzo humano y burnout. No es sostenible a largo plazo. Riesgo alto de fuga de talento.

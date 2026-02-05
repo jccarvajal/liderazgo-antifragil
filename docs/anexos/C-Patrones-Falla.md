@@ -61,6 +61,7 @@ Use este catálogo para identificar la enfermedad raíz detrás de los síntomas
 
 ## 5. SELECCIÓN ADVERSA (Degradación Sistémica del Capital Cognitivo)
 **Descripción:** Los empleados competentes y con opciones de mercado se van; se quedan los que no tienen opciones o los leales políticamente.
+
 * **Síntoma Visible:** Degradación progresiva de la calidad técnica. Ascensos basados en antigüedad o política, no mérito.
 * **Diagnóstico Técnico:** **Drenaje de Capital Cognitivo.** La organización está expulsando activamente a sus mejores activos. Inversión de la curva de talento.
 * **Causa Raíz:** Fallas de diseño en la propuesta de valor al empleado y falta de meritocracia técnica.
