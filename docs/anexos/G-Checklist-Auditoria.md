@@ -1,5 +1,5 @@
 # Anexo G: Checklist de Auditoría de Liderazgo Antifrágil
-## Herramienta de Diagnóstico Estructural (v1.0)
+## Herramienta de Diagnóstico Estructural
 
 !!! info "Ficha Técnica del Instrumento"
     **Propósito:** Evaluar si el "liderazgo" es una propiedad emergente del sistema o una dependencia frágil de individuos clave.
