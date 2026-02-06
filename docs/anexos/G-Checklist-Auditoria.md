@@ -5,6 +5,7 @@
     **Propósito:** Evaluar si el "liderazgo" es una propiedad emergente del sistema o una dependencia frágil de individuos clave.
 
     **Uso:** Directivo / Auditoría Interna / Arquitectura Organizacional.
+
     **Criterio:** Marque **Sí** / **No**. Los "Parciales" se computan automáticamente como **No** (un sistema intermitente es un sistema fallido).
 
 ---
