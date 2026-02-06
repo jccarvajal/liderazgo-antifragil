@@ -37,6 +37,7 @@ Si le pides a un sistema "reducir el fraude a cero", el sistema bloqueará el 10
     Es fragmentación del criterio bajo apariencia de autonomía.
     
     En estos sistemas:
+
     - La decisión se toma “localmente”, pero el costo se socializa.
     - El error no retorna como telemetría al sistema completo.
     - La coherencia estratégica se reemplaza por feudos operativos.
