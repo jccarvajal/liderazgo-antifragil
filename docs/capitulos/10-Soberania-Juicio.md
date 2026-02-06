@@ -28,6 +28,25 @@ Si le pides a un sistema "reducir el fraude a cero", el sistema bloqueará el 10
 
 ---
 
+!!! warning "Patología de Diseño: Reinos de Taifas"
+    El término *reinos de taifas* alude a la fragmentación del poder político en la península ibérica tras la caída del Califato de Córdoba: múltiples feudos autónomos, sin coordinación estratégica ni capacidad de sostener un proyecto común.
+
+    Un *reino de taifas* emerge cuando una unidad, área o jefatura acumula autonomía decisional sin trazabilidad, sin backbrief y sin responsabilidad explícita por las consecuencias.
+    
+    No es descentralización ni Juicio Distribuido.
+    Es fragmentación del criterio bajo apariencia de autonomía.
+    
+    En estos sistemas:
+    - La decisión se toma “localmente”, pero el costo se socializa.
+    - El error no retorna como telemetría al sistema completo.
+    - La coherencia estratégica se reemplaza por feudos operativos.
+    
+    Desde la ingeniería organizacional, los reinos de taifas constituyen una **violación directa de la Soberanía del Juicio** y un **riesgo sistémico latente**.
+    
+    Cuando la autonomía no es auditable ni reversible, deja de ser capacidad y se convierte en abdicación cognitiva.
+
+---
+
 ## 10.2. La Zona Roja: El Mandato de la Firma Biológica
 
 No todas las decisiones son automatizables. La organización debe trazar un límite duro alrededor de la **Zona Roja**: decisiones que, por su impacto ético, estratégico o humano, requieren obligatoriamente una **Firma Biológica**.
