@@ -30,6 +30,10 @@ La tecnología no tiene ética, no tiene contexto y no tiene "piel en el juego" 
 
     La Soberanía del Juicio no reside en el temperamento del líder, sino en la arquitectura que impide que el error individual se convierta en daño sistémico.
 
+Bajo esta arquitectura, la métrica de evaluación cambia radicalmente:
+
+> **El liderazgo no se mide por acertar en el momento crítico, sino por haber dejado evidencia, límites y trazabilidad antes de que el momento crítico existiera.**
+
 ---
 
 ## 10.1. El Algoritmo es un Sociópata Funcional
