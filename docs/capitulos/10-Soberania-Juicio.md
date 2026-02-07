@@ -16,6 +16,22 @@ La tecnología no tiene ética, no tiene contexto y no tiene "piel en el juego" 
 
 ---
 
+!!! important "Aclaración Doctrinal: El liderazgo no es una virtud personal"
+    Este capítulo no trata sobre formar líderes "mejores", más valientes o más inspiradores.
+    Trata sobre eliminar la necesidad estructural de que alguien tenga que serlo.
+
+    Cuando una organización depende del carácter, el carisma o la fortaleza emocional de una persona para tomar decisiones bajo presión, no tiene liderazgo: **tiene una falla de diseño**.
+
+    El liderazgo, en este marco, no es una cualidad humana. Es una **función arquitectónica**.
+
+    Su propósito no es decidir "mejor" en el momento crítico, sino **haber diseñado antes** un sistema donde la decisión sea defendible, trazable y reversible incluso cuando el juicio humano falle.
+
+    Los seres humanos son falibles por definición. Un sistema que requiere personas excepcionales para sobrevivir no es exigente: **es frágil**.
+
+    La Soberanía del Juicio no reside en el temperamento del líder, sino en la arquitectura que impide que el error individual se convierta en daño sistémico.
+
+---
+
 ## 10.1. El Algoritmo es un Sociópata Funcional
 
 Desde una perspectiva estricta de ingeniería, un algoritmo de optimización es indistinguible de un sociópata. Su función es maximizar una métrica (eficiencia, clics, ahorro) ignorando cualquier otra variable que no esté explícitamente codificada en su función de objetivo.
