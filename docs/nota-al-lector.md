@@ -43,6 +43,18 @@ Si busca comprender por qué organizaciones bien intencionadas colapsan, y cómo
 
 ---
 
+### Alcance Operativo (Scope)
+
+Este marco de arquitectura está diseñado específicamente para organizaciones de **Trabajo Cognitivo No-Rutinario**.
+
+El modelo asume que el valor de la organización se genera a través del criterio, la resolución de problemas complejos y la toma de decisiones bajo incertidumbre (Ingeniería, Salud, Derecho, Tecnología, Finanzas, Estrategia).
+
+**No es aplicable** a entornos de manufactura estandarizada, operaciones logísticas de alta repetición o roles diseñados para la ejecución algorítmica de scripts (Call Centers, Líneas de Ensamblaje).
+
+En esos entornos, la varianza es un defecto. En el contexto de este libro, la varianza es información. El objetivo aquí no es optimizar la obediencia, sino **hacer innecesaria la heroicidad mediante diseño**.
+
+---
+
 ### Aviso de Implementación
 
 Este libro presenta el marco **Modelo HIC** (diseño de control distribuido con límites duros, trazabilidad y cumplimiento por defecto).
