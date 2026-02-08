@@ -4,7 +4,7 @@
 
 **Autor:** [Juan Carlos Carvajal](https://www.jccarvajal.com/)
 
-<img src="assets/images/portada-lider.png" alt="Portada del Libro - Liderazgo Antifrágil" width="500">
+<img src="assets/images/portada-antifragil.png" alt="Portada del Libro - Liderazgo Antifrágil" width="500">
 
 ---
 
