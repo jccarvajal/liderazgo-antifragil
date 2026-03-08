@@ -5,7 +5,7 @@
 
 > *“The street finds its own uses for things."*
 >
-> — **William Gibson**
+> — **William Gibson (Burning Chrome)**
 
 ---
 
