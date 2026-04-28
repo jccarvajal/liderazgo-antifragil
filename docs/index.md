@@ -6,7 +6,7 @@
 
 <img src="assets/images/portada-antifragil.png" alt="Portada del Libro - Liderazgo Antifrágil" width="500">
 
---
+---
 
 ## 🎧 Versión Audio (Resumen / Podcast)
 
