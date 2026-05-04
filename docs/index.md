@@ -14,7 +14,7 @@ Antes de leer, puedes comenzar por el audio:
 
 ⏱️ **Duración:** 25 minutos  
 
-<audio controls>
+<audio controls preload="none">
   <source src="assets/audio/liderazgo-antifragil.m4a" type="audio/mp4">
   Tu navegador no soporta audio.
 </audio>
