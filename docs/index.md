@@ -52,7 +52,7 @@ Este libro propone el paso desde la **Resiliencia**, aguantar el golpe y volver 
 La tesis se sostiene sobre dos afirmaciones estructurales:
 
 * **El Diagnóstico:** Las organizaciones no colapsan porque las personas fallen, sino porque el diseño exige intervenciones humanas excepcionales para sostener la operación cotidiana.
-* **La Solución:** Eliminar la dependencia estructural de individuos extraordinarios. **El liderazgo debe dejar de ser una identidad personal y convertirse en una propiedad emergente del sistema.**
+* **La Solución:** Eliminar la dependencia estructural de individuos extraordinarios. **El liderazgo debe dejar de ser una identidad personal y convertirse en una función sistémica distribuida.**
 
 ---
 

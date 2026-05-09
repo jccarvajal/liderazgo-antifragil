@@ -2,7 +2,7 @@
 ## Herramienta de Diagnóstico Estructural
 
 !!! info "Ficha Técnica del Instrumento"
-    **Propósito:** Evaluar si el "liderazgo" es una propiedad emergente del sistema o una dependencia frágil de individuos clave.
+    **Propósito:** Evaluar si el "liderazgo" es una función sistémica distribuida o una dependencia frágil de individuos clave.
 
     **Uso:** Directivo / Auditoría Interna / Arquitectura Organizacional.
 

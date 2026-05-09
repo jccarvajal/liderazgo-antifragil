@@ -22,7 +22,7 @@ cuando las decisiones críticas no pueden ocultarse en procesos, algoritmos o co
 entonces ocurre algo que incomoda a la narrativa tradicional:
 
 * **El liderazgo deja de ser una identidad personal.**
-* **Se convierte en una propiedad emergente del sistema.**
+* **Se convierte en una función sistémica distribuida.**
 
 En ese estado, la persona que ocupa el cargo es secundaria.
 La estructura contiene el error.

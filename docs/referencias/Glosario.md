@@ -110,7 +110,7 @@ Quien no use estos términos con estas definiciones, no está aplicando el model
 
 **Liderazgo (Funcional)**
 
-* **Definición:** Función emergente del sistema que consiste en asumir responsabilidad por decisiones bajo incertidumbre, independientemente del cargo formal. El liderazgo no se nombra; se evidencia cuando alguien absorbe el costo del error. Emerge bajo presión y desaparece cuando el sistema absorbe correctamente la carga.
+* **Definición:** Función del sistema que consiste en asumir responsabilidad por decisiones bajo incertidumbre, independientemente del cargo formal. El liderazgo no se nombra; se evidencia cuando alguien absorbe el costo del error. Aparece bajo presión y desaparece cuando el sistema absorbe correctamente la carga.
 * **Referencia Principal:** Prólogo / Introducción.
 
 **Mando de Misión (Mission Command)**

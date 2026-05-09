@@ -18,7 +18,7 @@ Este anexo no busca la exhaustividad académica, sino la precisión operativa. S
 * **Tainter, J. (1988).** "The Collapse of Complex Societies". Cambridge University Press. [[Ver Libro]](https://www.amazon.com/Collapse-Complex-Societies-Studies-Archaeology/dp/052138673X)
     * **Por qué leerlo:** Fundamento teórico del Capítulo 01 (La Trampa de la Complejidad). Explica cómo la complejidad burocrática tiene rendimientos decrecientes hasta que colapsa por su propio peso.
 * **Perrow, C. (1999).** "Normal Accidents: Living with High-Risk Technologies". Princeton University Press. [[Ver Libro]](https://www.amazon.com/Normal-Accidents-Living-High-Risk-Technologies/dp/0691004129)
-    * **Por qué leerlo:** Fundamento estructural de la tesis de que el fallo no es una anomalía, sino una propiedad emergente de sistemas complejos y fuertemente acoplados. Soporte teórico del Capítulo 01 (Complejidad) y Capítulo 03 (SPOF).
+    * **Por qué leerlo:** Fundamento estructural de la tesis de que el fallo no es una anomalía, sino una propiedad de sistemas complejos y fuertemente acoplados. Soporte teórico del Capítulo 01 (Complejidad) y Capítulo 03 (SPOF).
 * **Taleb, N. N. (2018).** "Skin in the Game: Hidden Asymmetries in Daily Life". Random House. [[Ver Libro]](https://www.amazon.com/Skin-Game-Hidden-Asymmetries-Daily/dp/042528462X)
     * **Por qué leerlo:** Concepto rector del Capítulo 02 (Patología de la Abdicación) y del Glosario. Argumenta que no se puede confiar en decisiones tomadas por personas que no pagan el precio de sus errores.
 * **Reason, J. (1990).** "Human Error". Cambridge University Press. [[Ver Libro]](https://www.amazon.com/Human-Error-James-Reason/dp/0521314194)

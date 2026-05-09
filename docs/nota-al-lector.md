@@ -69,7 +69,7 @@ La autonomía táctica **no implica**, ni justifica, la violación de la ley, la
 
 En este libro se utiliza deliberadamente el lenguaje de sistemas, arquitectura y gobernanza. Ese uso no debe interpretarse como una abstracción neutral ni como una descripción impersonal de la realidad organizacional.
 
-Cuando en estas páginas se hace referencia a **"el sistema"**, se alude a un conjunto de decisiones, incentivos, reglas y mecanismos de control que han sido definidos, aceptados o sostenidos por personas y estructuras con autoridad formal, aun cuando sus efectos se manifiesten de manera distribuida o emergente.
+Cuando en estas páginas se hace referencia a **"el sistema"**, se alude a un conjunto de decisiones, incentivos, reglas y mecanismos de control que han sido definidos, aceptados o sostenidos por personas y estructuras con autoridad formal, aun cuando sus efectos se manifiesten de manera distribuida.
 
 El enfoque sistémico empleado no busca diluir responsabilidades, sino desplazarlas desde el error puntual hacia el diseño que hace ese error previsible. **La complejidad no actúa por sí misma: las organizaciones deciden cómo convivir con ella.**
 
