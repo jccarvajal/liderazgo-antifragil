@@ -143,7 +143,8 @@ Reglas de compromiso y calibración de expectativas.
 
 ### Control y Deriva
 * [Anexo E: De la Cultura al Control](./anexos/E-Cultura-al-Control.md)
-  *Guía para endurecer normas culturales en procesos auditables.*
+  *Guía para traducir comportamiento organizacional en procesos auditables.*
+
 * [Anexo F: Vicios de Implementación](./anexos/F-Vicios-Implementacion.md)
   *Diagnóstico Diferencial: Cómo distinguir el modelo real de su caricatura.*
 
